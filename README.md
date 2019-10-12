@@ -55,7 +55,7 @@
 	"description : "description",
 	"question" : ["question","body","note"],
 	"start_date" : "YY/MM/DD HH:MM",
-	"start_date" : "YY/MM/DD HH:MM"
+	"end_date" : "YY/MM/DD HH:MM"
 }
 
 ##### 5. to get a specified survey you should enter its id on the url http://localhost:5000/survey/id.
